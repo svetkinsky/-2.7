@@ -1,0 +1,32 @@
+.description {
+    font-weight: 900;  
+    color: yellow;  
+}
+
+.article {
+    color: red;
+}
+
+
+
+#article-id {
+    color: green
+}
+
+#two{
+    text-transform: uppercase;
+}
+
+.container > .first {
+    background: blue
+}
+
+p + blockquote {
+    text-transform: uppercase;
+}
+
+h1, h2, h3, a {
+    color: green;
+} 
+
+
